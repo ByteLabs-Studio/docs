@@ -1,0 +1,31 @@
+# Jekyll cache and build files
+.jekyll*
+_site/
+.sass-cache/
+
+# Ruby/Bundler
+.gem/
+Gemfile.lock
+vendor/bundle/
+vendor/cache/
+
+# Read the Docs build output
+readthedocs-build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Node modules (if using npm)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
